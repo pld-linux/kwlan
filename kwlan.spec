@@ -10,7 +10,6 @@ Source0:	http://home.arcor.de/tom.michel/downloads/%{name}-%{version}.tar.bz2
 URL:		http://www.kde-apps.org/content/show.php?content=37041
 BuildRequires:	autoconf
 BuildRequires:	automake
-BuildRequires:	gcc >= 5:3.4.0
 BuildRequires:	kdelibs-devel >= 9:3.0.3
 BuildRequires:	libiw-devel
 BuildRequires:	rpmbuild(macros) >= 1.129
