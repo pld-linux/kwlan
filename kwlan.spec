@@ -1,5 +1,5 @@
 Summary:	KDE frontend for WPA Supplicant
-Summary(pl):	Frontend KDE dla programu WPA Supplicant
+Summary(pl.UTF-8):   Frontend KDE dla programu WPA Supplicant
 Name:		kwlan
 Version:	0.6.0
 Release:	1
@@ -21,11 +21,11 @@ Allows you to configure different network profiles using all
 encryptions wpa_supplicant provides (WEP, WPA, WPA2 etc). Systray icon
 shows connection status. Based on wpa_gui by Jouni Malinen.
 
-%description -l pl
-kwlan pozwala na konfiguracjê ró¿nych profili sieciowych przy u¿yciu
-wszystkich metod szyfrowania udostêpnianych przez program
+%description -l pl.UTF-8
+kwlan pozwala na konfiguracjÄ™ rÃ³Å¼nych profili sieciowych przy uÅ¼yciu
+wszystkich metod szyfrowania udostÄ™pnianych przez program
 wpa_supplicant (WEP, WPA, WPA2 itp.). Ikona w zasobniku systemowym
-pokazuje status po³±czenia. kwlan jest oparty na wpa_gui Jouni
+pokazuje status poÅ‚Ä…czenia. kwlan jest oparty na wpa_gui Jouni
 Malinena.
 
 %prep
