@@ -1,5 +1,5 @@
 Summary:	KDE frontend for WPA Supplicant
-Summary(pl.UTF-8):   Frontend KDE dla programu WPA Supplicant
+Summary(pl.UTF-8):	Frontend KDE dla programu WPA Supplicant
 Name:		kwlan
 Version:	0.6.0
 Release:	1
