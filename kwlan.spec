@@ -1,12 +1,12 @@
 Summary:	KDE frontend for WPA Supplicant
 Summary(pl.UTF-8):	Frontend KDE dla programu WPA Supplicant
 Name:		kwlan
-Version:	0.6.2
+Version:	0.6.3
 Release:	1
 License:	GPL
 Group:		X11/Applications/Networking
-Source0:	http://home.arcor.de/tom.michel/downloads/%{name}-%{version}.tar.bz2
-# Source0-md5:	44b5781bb95b3fce316650dedf94dc22
+Source0:	http://dl.sourceforge.net/kwlan/%{name}-%{version}.tar.bz2
+# Source0-md5:	878f4a81aed8db736a6a89b4aa12e781
 URL:		http://www.kde-apps.org/content/show.php?content=37041
 BuildRequires:	autoconf
 BuildRequires:	automake
