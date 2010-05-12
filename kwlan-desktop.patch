@@ -1,0 +1,11 @@
+--- kwlan-0.6.3/kwlan/kwlan.desktop~	2007-08-23 12:35:18.000000000 +0200
++++ kwlan-0.6.3/kwlan/kwlan.desktop	2010-05-12 15:55:48.543466122 +0200
+@@ -21,7 +21,7 @@
+ Comment[sr@Latn]=KDE upravnik mreže
+ Comment[sv]=KDE:s nätverkshanterare
+ Comment[uk]=Керування мережами для KDE
+-Categories=Qt;KDE;Network;
++Categories=Qt;KDE;Network;Settings;
+ GenericName= Wireless Lan Manager
+ GenericName[bg]= Управление на безжична мрежа
+ GenericName[da]= Håndtering af trådløst net
